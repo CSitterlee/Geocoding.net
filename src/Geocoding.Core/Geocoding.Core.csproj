@@ -5,7 +5,7 @@
     <AssemblyTitle>Geocoding.net Core</AssemblyTitle>
     <VersionPrefix>4.0.0-beta1</VersionPrefix>
     <Authors>chadly</Authors>
-    <TargetFrameworks>netstandard1.3;net46</TargetFrameworks>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>Geocoding.Core</AssemblyName>
     <PackageId>Geocoding.Core</PackageId>
     <PackageTags>geocoding;geocode;geocoder;maps;address;validation;normalization;google-maps;bing-maps;yahoo-placefinder;mapquest</PackageTags>
@@ -19,7 +19,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
 </Project>
