@@ -196,6 +196,8 @@
 		WaterFeature,
 		Well,
 		Wetland,
-		Zoo
+		Zoo,
+		PointOfInterest,
+		GeoRegion
 	}
 }
