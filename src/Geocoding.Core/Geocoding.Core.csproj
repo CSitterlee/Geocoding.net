@@ -16,6 +16,7 @@
     <Product>Geocoding.Net</Product>
     <RepositoryUrl>https://github.com/chadly/Geocoding.net.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <Platforms>x64;x86;AnyCPU</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
